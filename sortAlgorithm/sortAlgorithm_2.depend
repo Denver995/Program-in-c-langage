@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1557661400 source:c:\users\denver99\desktop\all projects\allproject\prorammec\sort algorithm and complexity\sortalgorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"trie.h"
+	"recherche.h"
+
+1557664172 source:c:\users\denver99\desktop\all projects\allproject\prorammec\sort algorithm and complexity\sortalgorithm\recherche.c
+	<stdio.h>
+	<stdlib.h>
+	"recherche.h"
+
+1556806043 c:\users\denver99\desktop\all projects\allproject\prorammec\sort algorithm and complexity\sortalgorithm\recherche.h
+
+1557661275 source:c:\users\denver99\desktop\all projects\allproject\prorammec\sort algorithm and complexity\sortalgorithm\trie.c
+	<stdio.h>
+	<stdlib.h>
+	"trie.h"
+
+1557661196 c:\users\denver99\desktop\all projects\allproject\prorammec\sort algorithm and complexity\sortalgorithm\trie.h
+
+1557020977 source:c:\users\denver99\desktop\all projects\allproject\prorammec\sort algorithm in c\sort algorithm in c\recherche.c
+	<stdio.h>
+	<stdlib.h>
+	"recherche.h"
+
+1557019643 c:\users\denver99\desktop\all projects\allproject\prorammec\sort algorithm in c\sort algorithm in c\recherche.h
+
+1557022223 source:c:\users\denver99\desktop\all projects\allproject\prorammec\sort algorithm in c\sort algorithm in c\trie.c
+	<stdio.h>
+	<stdlib.h>
+	"trie.h"
+
+1557019579 c:\users\denver99\desktop\all projects\allproject\prorammec\sort algorithm in c\sort algorithm in c\trie.h
+
+1557045117 source:c:\users\denver99\desktop\all projects\allproject\prorammec\sort algorithm in c\sort algorithm in c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"trie.h"
+	"recherche.h"
+
